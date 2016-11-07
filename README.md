@@ -1,1 +1,2 @@
 # scuola
+Usiamo git?
