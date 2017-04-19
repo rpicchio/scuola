@@ -1,1 +1,3 @@
 Prova da https://github.com/rpicchio/scuola/new/master
+Modifico con emacs da shell
+Proviamo ad aggionrare l'originale?
